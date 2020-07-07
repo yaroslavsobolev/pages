@@ -1,7 +1,7 @@
-site: Duet Jekyll Theme
+site: Yaroslav Sobolev blog
 
-url: 
-baseurl: 
+url: https://yaroslavsobolev.github.io
+baseurl: /pages
 
 collections:
   pages:
