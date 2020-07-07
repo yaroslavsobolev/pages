@@ -19,15 +19,12 @@ We've included everything you need to create engaging posts about your work, and
 Просто рисунок:
 
 ![](/pages/images/vote_rigging_1/84.png)
-*Подпись к рисунку вот такая вот*
--> Подпись к рисунку вот такая вот даже <-
 
 Другой рисунок:
 
 ![](/pages/images/vote_rigging_1/84.png)
 
-{:.image-caption}
-*The caption for my image*
+-> *The caption for my image* <-
 
 You can create lists:
 
