@@ -18,7 +18,7 @@ We've included everything you need to create engaging posts about your work, and
 
 Просто рисунок:
 
-![](/images/vote_rigging_1/84.png)
+![](/pages/images/vote_rigging_1/84.png)
 *Подпись к рисунку вот такая вот*
 
 You can create lists:
@@ -61,7 +61,7 @@ Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
 	<img src="/pages/images/demo/demo-portrait.jpg">
-	<img src="pages/images/demo/demo-landscape.jpg">
+	<img src="/pages/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-square.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
