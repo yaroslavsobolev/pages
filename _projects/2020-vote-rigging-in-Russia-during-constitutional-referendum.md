@@ -16,6 +16,11 @@ We've included everything you need to create engaging posts about your work, and
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+Просто рисунок:
+
+![](/images/vote_rigging_1/84.png)
+*Подпись к рисунку вот такая вот*
+
 You can create lists:
 
 * Simple bulleted lists
