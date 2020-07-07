@@ -19,8 +19,8 @@ featured_image: '/images/vote_rigging_1/rick.png'
 многочисленными [свидетельствами](https://www.kartanarusheniy.org/2020-07-01/list) наблюдателей 
 и независимых членов избирательных комиссий, но суммарный масштаб и уродливый лейтмотив этих фальсификаций в нагляднее
  всего демонстрируется простым статистическим анализом
-  [официальных данных](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&root_a=772000004&vrn=100100163596966&region=0&global=true&type=0&sub_region=99&prver=0&pronetvd=null)  
-  с сайта Центральной Избирательной Комиссии (ЦИК)
+  [официальных данных](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&root_a=772000004&vrn=100100163596966&region=0&global=true&type=0&sub_region=99&prver=0&pronetvd=null) 
+с сайта Центральной Избирательной Комиссии (ЦИК)
  — логика и результаты 
  такого анализа были изложены Сергеем Шпилькиным
   [в его блоге](https://www.facebook.com/sergey.shpilkin/posts/3119490201472928),
@@ -56,9 +56,9 @@ featured_image: '/images/vote_rigging_1/rick.png'
  страницы) по участку №800 в Якутске: 
  
 ![](/pages/images/vote_rigging_1/uik800.jpg)
-<center> *Источник: [Твиттер](https://twitter.com/k_b_l_v/status/1279566757485637633) и 
+*Источник: [Твиттер](https://twitter.com/k_b_l_v/status/1279566757485637633) и 
 ["Новости Якутии"]((https://news.ykt.ru/article/103260?utm_source=tw&utm_medium=so&utm_campaign=izbirkom-yakutska-rasskazal-ob-oshibkah-v))*
-</center>
+
 
 (фотка и ГАС выборы). Почему именно такой вид фальсификаций — с заменой одной цифры в разряде тысяч — излюблен 
 фальсификаторами? Потому что в случае судебного разбирательства после выборов наш Самый Честный Суд в таких случаях 
