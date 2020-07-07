@@ -24,7 +24,7 @@ We've included everything you need to create engaging posts about your work, and
 
 ![](/pages/images/vote_rigging_1/84.png)
 
--> *The caption for my image* <-
+<center> *The caption for my image* </center>
 
 You can create lists:
 
