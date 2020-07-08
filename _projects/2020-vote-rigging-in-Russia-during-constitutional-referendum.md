@@ -58,7 +58,7 @@ featured_image: '/images/vote_rigging_1/rick.png'
 ![](/pages/images/vote_rigging_1/uik800.jpg)
 
 <sup>*Источник: [Твиттер](https://twitter.com/k_b_l_v/status/1279566757485637633) и 
-["Новости Якутии"]((https://news.ykt.ru/article/103260?utm_source=tw&utm_medium=so&utm_campaign=izbirkom-yakutska-rasskazal-ob-oshibkah-v))</sup>*
+["Новости Якутии"]((https://news.ykt.ru/article/103260?utm_source=tw&utm_medium=so&utm_campaign=izbirkom-yakutska-rasskazal-ob-oshibkah-v))*</sup>
 
 Вглядитесь в отличающиеся цифры (помечено жёлтым): в базе данных (справа) цифра в разряде тысяч изменена с нуля на 
 единицу в графе "Да", с соответсвующим увеличением на тысячу в графах "Число бюллетеней, выданных участникам" и 
@@ -94,11 +94,11 @@ featured_image: '/images/vote_rigging_1/rick.png'
  
  ![](/pages/images/vote_rigging_1/denis_1.png)
 
-*Официальные результаты голосования 1 июля в Москве и Хабаровском крае, показанные в виде столбиков (по одному 
+<sup>*Официальные результаты голосования 1 июля в Москве и Хабаровском крае, показанные в виде столбиков (по одному 
 столбику на УИК), чья высота соответствует проценту голосов "да" на участке. Серыми рамками обведены УИКи одного 
 ТИКа (то есть, географически близкие друг к другу). Автор визуализации: 
 [Денис Ольшин](https://twitter.com/denullru/status/1279042332256620546). 
-Посмотреть и потрогать эту визуализацию целиком — можно [здесь](https://popravke.net/anomalies.html).*
+Посмотреть и потрогать эту визуализацию целиком — можно [здесь](https://popravke.net/anomalies.html).*</sup>
  
 Такое отображение (его ещё называют 
 ["диаграммой Габдульвалеева"](https://www.electoral.graphics/ru-ru/laboratory/gab)) полезно для обнаружения УИКов, 
