@@ -57,8 +57,8 @@ featured_image: '/images/vote_rigging_1/rick.png'
  
 ![](/pages/images/vote_rigging_1/uik800.jpg)
 
-*Источник: [Твиттер](https://twitter.com/k_b_l_v/status/1279566757485637633) и 
-["Новости Якутии"]((https://news.ykt.ru/article/103260?utm_source=tw&utm_medium=so&utm_campaign=izbirkom-yakutska-rasskazal-ob-oshibkah-v))*
+<sup>*Источник: [Твиттер](https://twitter.com/k_b_l_v/status/1279566757485637633) и 
+["Новости Якутии"]((https://news.ykt.ru/article/103260?utm_source=tw&utm_medium=so&utm_campaign=izbirkom-yakutska-rasskazal-ob-oshibkah-v))</sup>*
 
 Вглядитесь в отличающиеся цифры (помечено жёлтым): в базе данных (справа) цифра в разряде тысяч изменена с нуля на 
 единицу в графе "Да", с соответсвующим увеличением на тысячу в графах "Число бюллетеней, выданных участникам" и 
