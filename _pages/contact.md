@@ -1,10 +1,17 @@
 ---
 title: Contact
-subtitle: Duet comes with a built-in contact form, that's free and easy to set up.
+subtitle:
 description: Duet is a beautiful Jekyll portfolio theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-{% include contact-form.html %}
+Yaroslav I. Sobolev
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+Senior Researcher  
+Center for Soft and Living Matter  
+Institute of Basic Science  
+Republic of Korea
+
+**Email**: yaroslav.sobolev@phystech.edu  
+**Phone**: +82-10-6606-0104
+
