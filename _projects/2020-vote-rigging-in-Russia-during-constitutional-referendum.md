@@ -117,11 +117,74 @@ featured_image: '/images/vote_rigging_1/rick.png'
   школы). Согласитесь: было бы уж совсем необъяснимо, если бы избиратели, приходящие голосовать в одно и то же здание по
    месту жительства, голосовали бы совершенно по-разному в разных *комнатах* этого здания. Однако в официальных 
    данных ЦИК результаты на участках в одном и том же доме мало того что сильно отличаются между собой, так эта 
-   разница в десятках случаев подозрительно похожа на ровно тысячу голосов "Да". Вот несколько примеров:
+   разница в десятках случаев подозрительно похожа на ровно тысячу голосов "Да". Вот несколько найденных мной примеров:
+   
+## Улов
+На этих 
+графиках суммарная длина полоски каждого УИКа соответствует числу зарегистрированных избирателей (которое у УИКов 
+неодинаково) сделана одинаковой для всех УИКов в одном доме, чтобы было удобнее сравнивать процентные соотношения.
+Под каждым графиком есть ссылки на источник данных (соответствующую страницу официального сайта ЦИК).
 
-[//]: # (<img style="display: inline-block;" src="/pages/images/vote_rigging_1/denis_inline.png">)
-  
-![](/pages/images/vote_rigging_1/84.png)
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/5883.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №408](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=332000022&tvd=23320001061886&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=23320001061886) | [УИК №409](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=332000022&tvd=23320001061886&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=23320001061886)). Адрес и члены комиссий ([УИК №408](http://www.vladimir.vybory.izbirkom.ru/region/vladimir?action=ik&vrn=4334003192017) | [УИК №409](http://www.vladimir.vybory.izbirkom.ru/region/vladimir?action=ik&vrn=4334003192018))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/5887.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №424](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=332000022&tvd=23320001061886&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=23320001061886) | [УИК №425](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=332000022&tvd=23320001061886&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=23320001061886)). Адрес и члены комиссий ([УИК №424](http://www.vladimir.vybory.izbirkom.ru/region/vladimir?action=ik&vrn=4334003192033) | [УИК №425](http://www.vladimir.vybory.izbirkom.ru/region/vladimir?action=ik&vrn=4334003192034))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/5901.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №402](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=332000022&tvd=23320001061886&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=23320001061886) | [УИК №403](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=332000022&tvd=23320001061886&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=23320001061886)). Адрес и члены комиссий ([УИК №402](http://www.vladimir.vybory.izbirkom.ru/region/vladimir?action=ik&vrn=4334003192011) | [УИК №403](http://www.vladimir.vybory.izbirkom.ru/region/vladimir?action=ik&vrn=4334003192012))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/6034.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №2562](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=522000020&tvd=25220001948854&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=25220001948854) | [УИК №2563](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=522000020&tvd=25220001948854&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=25220001948854) | [УИК №2564](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=522000020&tvd=25220001948854&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=25220001948854)). Адрес и члены комиссий ([УИК №2562](http://www.nnov.vybory.izbirkom.ru/region/nnov?action=ik&vrn=4524039210571) | [УИК №2563](http://www.nnov.vybory.izbirkom.ru/region/nnov?action=ik&vrn=4524039210404) | [УИК №2564](http://www.nnov.vybory.izbirkom.ru/region/nnov?action=ik&vrn=4524039210409))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/6083.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №2583](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=522000020&tvd=25220001948854&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=25220001948854) | [УИК №2584](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=522000020&tvd=25220001948854&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=25220001948854) | [УИК №2585](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=522000020&tvd=25220001948854&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=25220001948854)). Адрес и члены комиссий ([УИК №2583](http://www.nnov.vybory.izbirkom.ru/region/nnov?action=ik&vrn=4524039210524) | [УИК №2584](http://www.nnov.vybory.izbirkom.ru/region/nnov?action=ik&vrn=4524039210528) | [УИК №2585](http://www.nnov.vybory.izbirkom.ru/region/nnov?action=ik&vrn=4524039210533))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/84.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №1476](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000115&tvd=27720002420517&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420517) | [УИК №1477](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000115&tvd=27720002420517&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420517) | [УИК №1484](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000115&tvd=27720002420517&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420517)). Адрес и члены комиссий ([УИК №1476](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774094258712) | [УИК №1477](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774094259223) | [УИК №1484](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774094260379))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/607.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №2759](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000021&tvd=27720002420423&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420423) | [УИК №2760](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000021&tvd=27720002420423&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420423)). Адрес и члены комиссий ([УИК №2759](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774027165612) | [УИК №2760](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774027165729))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/618.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №2792](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000006&tvd=27720002420408&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420408) | [УИК №2793](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000006&tvd=27720002420408&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420408)). Адрес и члены комиссий ([УИК №2792](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774028156096) | [УИК №2793](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774028156229))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/775.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №244](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000004&tvd=27720002420406&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420406) | [УИК №245](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000004&tvd=27720002420406&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420406)). Адрес и члены комиссий ([УИК №244](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774041138728) | [УИК №245](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774041138879))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/2398.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №1430](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000026&tvd=27820001295441&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295441) | [УИК №1431](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000026&tvd=27820001295441&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295441) | [УИК №1432](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000026&tvd=27820001295441&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295441)). Адрес и члены комиссий ([УИК №1430](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784011343789) | [УИК №1431](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784011343799) | [УИК №1432](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784011343807))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/2521.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №549](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000014&tvd=27820001295429&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295429) | [УИК №553](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000014&tvd=27820001295429&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295429)). Адрес и члены комиссий ([УИК №549](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784019244443) | [УИК №553](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784019244447))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/2713.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №1942](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000003&tvd=27820001295418&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295418) | [УИК №1943](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000003&tvd=27820001295418&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295418) | [УИК №1945](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000003&tvd=27820001295418&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295418)). Адрес и члены комиссий ([УИК №1942](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784028281923) | [УИК №1943](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784028328599) | [УИК №1945](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784028206022))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/2833.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №1721](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000023&tvd=27820001295438&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295438) | [УИК №1722](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=782000023&tvd=27820001295438&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27820001295438)). Адрес и члены комиссий ([УИК №1721](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784013198867) | [УИК №1722](http://www.st-petersburg.vybory.izbirkom.ru/region/st-petersburg?action=ik&vrn=4784013198869))
+
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/4352.png)
+
+Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №246](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=642000024&tvd=26420001638389&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=26420001638389) | [УИК №247](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=642000024&tvd=26420001638389&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=26420001638389)). Адрес и члены комиссий ([УИК №246](http://www.saratov.vybory.izbirkom.ru/region/saratov?action=ik&vrn=4644036405683) | [УИК №247](http://www.saratov.vybory.izbirkom.ru/region/saratov?action=ik&vrn=4644036405496))
+
+
+
+[Вот здесь](https://github.com/yaroslavsobolev/pages/tree/master/images/vote_rigging_1/locations) я выложил такие же
+ графики для всех найденных мной подозрительных случаев (61 штука).
 
  Идея этой визуализации у неё примерно та же, что и у , только выполнена она намного 
  нагляднее и интегрирована с отображением места конкретного ТИК и УИК в распределениях по осям явка-результат.
