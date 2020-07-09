@@ -7,6 +7,7 @@ subtitle: 'Некоторые избирательные участки (УИК)
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/vote_rigging_1/rick_1.png'
+comments: true
 ---
 
 [//]: # ("Смотрите внимательно, внучата, как ваш дедуля сейчас заменит единичку на нолик и тем самым разрушит целую галактическую империю одним махом." — Рик Санчез)
