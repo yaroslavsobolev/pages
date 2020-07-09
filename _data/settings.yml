@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Yaroslav Sobolev blog
-  favicon_image: /images/favicon.png
+  favicon_image: /images/favicon.ico
 
 header_settings:
   logo_image: 
