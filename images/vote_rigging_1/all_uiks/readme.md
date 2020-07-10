@@ -2,7 +2,7 @@
 
 
 
-![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/locations/uiks/0.png)
+![](https://yaroslavsobolev.github.io/pages/images/vote_rigging_1/all_uiks/low_turnout_uiks/0.png)
 
 Ссылки на официальный сайт ЦИК: Результаты голосования ([УИК №656](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000070&tvd=27720002420472&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420472) | [УИК №657](http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000070&tvd=27720002420472&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=99&type=465&vibid=27720002420472)). Адрес и члены комиссий ([УИК №656](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774062132985) | [УИК №657](http://www.moscow_city.vybory.izbirkom.ru/region/moscow_city?action=ik&vrn=4774062133118))
 
