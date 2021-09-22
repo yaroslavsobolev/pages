@@ -25,7 +25,7 @@ comments: true
 
 Результат целевой партии, изначально равнявшийся y<sub>0</sub>, после вброса станет равен
 
-<img src="https://render.githubusercontent.com/render/math?math=y=%5Cfrac{y_0 x_0%2Bv}{x_0%2Bv}">
+<img src="https://render.githubusercontent.com/render/math?math=y=%5Cfrac{y_0 x_0%2Bv}{x_0%2Bv}" height="35">
 
 Вот иллюстрация того, как ведёт себя эта формула для нескольких стартовых точек (x<sub>0</sub>, y<sub>0</sub>) и различных v. 
 
