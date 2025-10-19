@@ -1,10 +1,10 @@
 ---
 title: Thank you
 subtitle: Your message was sent successfully.
-description: Duet is a beautiful Jekyll portfolio theme.
+description: I don't know what is the purpose of this page.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
 ![](/images/demo/about.jpg)
 
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
+There are billions of galaxies in the observable universe.
