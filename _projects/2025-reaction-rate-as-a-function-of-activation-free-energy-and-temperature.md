@@ -7,9 +7,11 @@ featured_image: '/images/vote_rigging_1/preview_pic.png'
 comments: false
 ---
 
-[//]: # ("Смотрите внимательно, внучата, как ваш дедуля сейчас заменит единичку на нолик и тем самым разрушит целую галактическую империю одним махом." — Рик Санчез)
+[//]: # ("lines go brr")
 
 
 A reference cheatsheet I've made to print and hang on the wall:
+
+![](/pages/images/reaction-barriers/eyring_landscape.svg)
 
 You may download PDF [here](https://github.com/yaroslavsobolev/reaction-barriers-and-time-chart/blob/main/eyring_landscape.pdf), or use [this](https://github.com/yaroslavsobolev/reaction-barriers-and-time-chart/blob/main/make_the_chart.py) Python script to recreate or modify this plot.
