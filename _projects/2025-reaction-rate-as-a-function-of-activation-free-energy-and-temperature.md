@@ -7,6 +7,9 @@ featured_image: '/images/reaction-barriers/eyring_landscape.svg'
 comments: false
 ---
 
+[//]: # ("Смотрите внимательно, внучата, как ваш дедуля сейчас заменит единичку на нолик и тем самым разрушит целую галактическую империю одним махом." — Рик Санчез)
+
+
 A reference cheatsheet I've made to print and hang on the wall:
 
 ![](https://yaroslavsobolev.github.io/pages/images/reaction-barriers/eyring_landscape.svg)
