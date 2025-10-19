@@ -2,7 +2,7 @@
 title: 'Reaction rate as a function of activation free energy and temperature'
 subtitle: 'Cheatsheet chart'
 date: 2025-10-19 16:50:00
-description: Chart uses Eyring-Polanyi-Evans equation to show how the half-life of a reaction depends on activation free energy and temperature
+description: 'Chart uses Eyring-Polanyi-Evans equation to show how the half-life of a reaction depends on activation free energy and temperature'
 featured_image: '/images/reaction-barriers/eyring_landscape.jpg'
 comments: false
 ---
