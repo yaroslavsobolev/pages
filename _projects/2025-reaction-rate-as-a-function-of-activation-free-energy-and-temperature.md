@@ -9,7 +9,7 @@ comments: true
 
 A reference cheatsheet I've made to print and hang on the wall:
 
-![](/pages/images/reaction-barriers/eyring_landscape.png)
+![](https://yaroslavsobolev.github.io/pages/images/reaction-barriers/eyring_landscape.svg)
 
 You may download PDF [here](https://github.com/yaroslavsobolev/reaction-barriers-and-time-chart/blob/main/eyring_landscape.pdf), or use [this](https://github.com/yaroslavsobolev/reaction-barriers-and-time-chart/blob/main/make_the_chart.py) Python script to recreate or modify this plot.
 
